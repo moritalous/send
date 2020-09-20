@@ -37,6 +37,7 @@ class Header extends Component {
                 <use xlink:href="${assets.get('wordmark.svg')}#logo" />
               </svg>
             </a>
+            <h1 class="text-3xl font-bold md:pb-2">Forked by moritalous</h1>
           `;
     return html`
       <header
