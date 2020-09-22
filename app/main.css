@@ -190,7 +190,7 @@ footer li:hover {
   text-indent: 120%;
   white-space: nowrap;
   display: inline-block;
-  height: 32px;
+  height: 24px;
   width: 160px;
   flex-shrink: 0;
 }
