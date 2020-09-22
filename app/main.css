@@ -183,15 +183,15 @@ footer li:hover {
 }
 
 .mozilla-logo {
-  background-image: url('../assets/moritalous-logo-blackwhite.png');
+  background-image: url('../assets/moritalous-logo-blackwhite.svg');
   background-repeat: no-repeat;
-  background-size: 100px, 48px;
+  background-size: 160px, 48px;
   overflow: hidden;
   text-indent: 120%;
   white-space: nowrap;
   display: inline-block;
   height: 32px;
-  width: 100px;
+  width: 160px;
   flex-shrink: 0;
 }
 
