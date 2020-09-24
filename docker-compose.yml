@@ -11,3 +11,5 @@ services:
       - FXA_REQUIRED=false
   redis:
     image: redis:alpine
+    volumes:
+      - /data/redis:/data
